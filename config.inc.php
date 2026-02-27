@@ -120,7 +120,6 @@ $PORTAL_URL = $site_URL.'customerportal1';
 $root_directory = 'C:/wamp64/www/bemlquality/';//'/home2/bitechnosys/democrm.crm-doctor.com/armstrongnew/';
 // ini_set('session.save_path', $root_directory.'/igSession/');
 
-
 // cache direcory path
 $cache_dir = 'cache/';
 
