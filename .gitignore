@@ -1,0 +1,9 @@
+/modules/Mobile/api/ws/apicache
+/test
+/log
+/user_privileges
+/storage
+/logs
+/customerportal/writeable/templates_c/default
+tabdata.php
+parent_tabdata.php

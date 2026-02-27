@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_labelmanager</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_labelmanager` (
+  `labelmanagerid` int NOT NULL,
+  `labelmanager_no` varchar(100) DEFAULT NULL,
+  `tags` varchar(1) DEFAULT NULL,
+  PRIMARY KEY (`labelmanagerid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3]]></sql>
+		</table>
+		<table>
+			<name>vtiger_labelmanagercf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_labelmanagercf` (
+  `labelmanagerid` int NOT NULL,
+  PRIMARY KEY (`labelmanagerid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3]]></sql>
+		</table>
+	</tables>
+</schema>

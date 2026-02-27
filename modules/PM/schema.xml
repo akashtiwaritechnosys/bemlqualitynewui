@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_pm</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_pm` (
+    `pmid` int(11) NOT NULL DEFAULT '0',
+      `pm_subject` VARCHAR(128) DEFAULT NULL,
+      PRIMARY KEY (`pmid`)
+  ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_pmcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_pmcf` (
+  `pmid` int(11) NOT NULL,
+  PRIMARY KEY (`pmid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

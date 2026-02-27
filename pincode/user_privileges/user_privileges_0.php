@@ -1,0 +1,9 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'admin','is_admin'=>'on','user_password'=>'$2y$10$c7HYhmhp7oNgtVtZ9GgwFuPlNiVZwPrPb6YmvlP0qPtaaYZyHXxh2','confirm_password'=>'$2y$10$c7HYhmhp7oNgtVtZ9GgwFuPlNiVZwPrPb6YmvlP0qPtaaYZyHXxh2','first_name'=>'Master','last_name'=>'Admin','roleid'=>'H17','email1'=>'lokesh.s@biztechnosys.com','status'=>'Active','activity_view'=>'This Week','lead_view'=>'Today','hour_format'=>'12','end_hour'=>'23:00','start_hour'=>'08:00','is_owner'=>'1','title'=>'','phone_work'=>'','department'=>'','phone_mobile'=>'','reports_to_id'=>'','phone_other'=>'','email2'=>'','phone_fax'=>'','secondaryemail'=>'','phone_home'=>'','date_format'=>'dd-mm-yyyy','signature'=>'','description'=>'','address_street'=>'','address_city'=>'','address_state'=>'','address_postalcode'=>'','address_country'=>'','accesskey'=>'7k5oPdIA5OWAPGsJ','time_zone'=>'America/Los_Angeles','currency_id'=>'3','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>'.','currency_grouping_separator'=>',','currency_symbol_placement'=>'$1.0','imagename'=>'173223392_423772079201634_5200548294893634985_n.jpg','internal_mailer'=>'1','theme'=>'alphagrey','language'=>'de_de','reminder_interval'=>'5 Minutes','phone_crm_extension'=>'','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'1','dayoftheweek'=>'Monday','callduration'=>'5','othereventduration'=>'5','calendarsharedtype'=>'public','default_record_view'=>'Summary','leftpanelhide'=>'0','rowheight'=>'','defaulteventstatus'=>'Planned','defaultactivitytype'=>'Call','hidecompletedevents'=>'0','defaultcalendarview'=>'MyCalendar','defaultlandingpage'=>'Home','currency_name'=>'USA, Dollars','currency_code'=>'USD','currency_symbol'=>'&#36;','conv_rate'=>'70.00000','record_id'=>'','record_module'=>'','id'=>'1');
+
+?>

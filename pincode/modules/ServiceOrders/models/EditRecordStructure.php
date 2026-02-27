@@ -1,0 +1,3 @@
+<?php
+
+class ServiceOrders_EditRecordStructure_Model extends Inventory_EditRecordStructure_Model {}

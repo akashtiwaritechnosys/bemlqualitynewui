@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_mttr</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_mttr` (
+    `mttrid` int(11) NOT NULL DEFAULT '0',
+      `subject` VARCHAR(128) DEFAULT NULL,
+      PRIMARY KEY (`mttrid`)
+  ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_mttrcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_mttrcf` (
+  `mttrid` int(11) NOT NULL,
+  PRIMARY KEY (`mttrid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

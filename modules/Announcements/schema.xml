@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_announcements</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_announcements` (
+  `announcementsid` int NOT NULL,
+  `annos_file` varchar(255) DEFAULT NULL,
+  `annos_active` int DEFAULT NULL,
+  `announcements_no` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`announcementsid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3]]></sql>
+		</table>
+		<table>
+			<name>vtiger_announcementscf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_announcementscf` (
+  `announcementsid` int NOT NULL,
+  PRIMARY KEY (`announcementsid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3]]></sql>
+		</table>
+		<table>
+			<name>vtiger_announcement</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_announcement` (
+  `announcementid` int NOT NULL,
+  `anno_file` varchar(255) DEFAULT NULL,
+  `anno_active` int DEFAULT NULL,
+  `announcement_no` varchar(100) DEFAULT NULL,
+  `tags` varchar(1) DEFAULT NULL,
+  PRIMARY KEY (`announcementid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3]]></sql>
+		</table>
+		<table>
+			<name>vtiger_announcementcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_announcementcf` (
+  `announcementid` int NOT NULL,
+  PRIMARY KEY (`announcementid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3]]></sql>
+		</table>
+	</tables>
+</schema>

@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_pincodes</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_pincodes` (
+    `pincodesid` int(11) NOT NULL DEFAULT '0',
+      `pincode` INT(10) DEFAULT NULL,
+      PRIMARY KEY (`pincodesid`)
+  ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_pincodescf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_pincodescf` (
+  `pincodesid` int(11) NOT NULL,
+  PRIMARY KEY (`pincodesid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

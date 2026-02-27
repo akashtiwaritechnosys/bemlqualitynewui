@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_internaltickets</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_internaltickets` (
+    `internalticketsid` int(11) NOT NULL DEFAULT '0',
+      `ticket_description` TEXT DEFAULT NULL,
+    `employee_email` VARCHAR(128) DEFAULT NULL,
+    `documents` VARCHAR(256) DEFAULT NULL,
+      PRIMARY KEY (`internalticketsid`)
+  ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_internalticketscf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_internalticketscf` (
+  `internalticketsid` int(11) NOT NULL,
+  PRIMARY KEY (`internalticketsid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

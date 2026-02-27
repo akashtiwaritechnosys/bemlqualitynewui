@@ -1,0 +1,618 @@
+Traced on 2022-05-25 18:08:41
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:21:32
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\include\Webservices\Utils.php::getInstance::214<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerCRMObjectMeta.php::vtws_getModuleInstance::42<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerModuleOperation.php::__construct::31<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerModuleOperation.php::getMetaInstance::19<br>
+C:\xampp\htdocs\beml\include\Webservices\Utils.php::__construct::462<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\QueryGenerator.php::vtws_getModuleHandlerFromName::96<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\EnhancedQueryGenerator.php::getMeta::46<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\EnhancedQueryGenerator.php::getModuleFields::20<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\ListView.php::__construct::376<br>
+C:\xampp\htdocs\beml\modules\Vtiger\views\List.php::getInstance::56<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::preProcess::77<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::triggerPreProcess::215<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:21:45
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\include\Webservices\Utils.php::getInstance::214<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerCRMObjectMeta.php::vtws_getModuleInstance::42<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerModuleOperation.php::__construct::31<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerModuleOperation.php::getMetaInstance::19<br>
+C:\xampp\htdocs\beml\include\Webservices\Utils.php::__construct::462<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\QueryGenerator.php::vtws_getModuleHandlerFromName::96<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\EnhancedQueryGenerator.php::getMeta::46<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\EnhancedQueryGenerator.php::getModuleFields::20<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\ListView.php::__construct::376<br>
+C:\xampp\htdocs\beml\modules\Vtiger\views\List.php::getInstance::56<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::preProcess::77<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::triggerPreProcess::215<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:22:10
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\include\Webservices\Utils.php::getInstance::214<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerCRMObjectMeta.php::vtws_getModuleInstance::42<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerModuleOperation.php::__construct::31<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerModuleOperation.php::getMetaInstance::19<br>
+C:\xampp\htdocs\beml\include\Webservices\Utils.php::__construct::462<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\QueryGenerator.php::vtws_getModuleHandlerFromName::96<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\EnhancedQueryGenerator.php::getMeta::46<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\EnhancedQueryGenerator.php::getModuleFields::20<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\ListView.php::__construct::376<br>
+C:\xampp\htdocs\beml\modules\Vtiger\views\List.php::getInstance::56<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::preProcess::77<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::triggerPreProcess::215<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:22:33
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\include\Webservices\Utils.php::getInstance::214<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerCRMObjectMeta.php::vtws_getModuleInstance::42<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerModuleOperation.php::__construct::31<br>
+C:\xampp\htdocs\beml\include\Webservices\VtigerModuleOperation.php::getMetaInstance::19<br>
+C:\xampp\htdocs\beml\include\Webservices\Utils.php::__construct::462<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\QueryGenerator.php::vtws_getModuleHandlerFromName::96<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\EnhancedQueryGenerator.php::getMeta::46<br>
+C:\xampp\htdocs\beml\include\QueryGenerator\EnhancedQueryGenerator.php::getModuleFields::20<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\ListView.php::__construct::376<br>
+C:\xampp\htdocs\beml\modules\Vtiger\views\List.php::getInstance::56<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::preProcess::77<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::triggerPreProcess::215<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:24:30
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::retrieveCurrentUserInfoFromFile::818<br>
+C:\xampp\htdocs\beml\modules\Users\models\Privileges.php::getInstanceFromPreferenceFile::188<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\9767dc3102998e6e6f4bc95533c6c9cede9e5462.file.ListViewRecordActions.tpl.php::isPermittedToChangeUsername::33<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bd87d8a::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_template.php::fetch::285<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\1aed77e389a3c9b8044c5dfa20f3a9a1db31b52a.file.ListViewContents.tpl.php::getSubTemplate::106<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bc8e9dd::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::fetch::374<br>
+C:\xampp\htdocs\beml\includes\runtime\Viewer.php::display::188<br>
+C:\xampp\htdocs\beml\modules\Users\views\List.php::view::31<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:25:05
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:27:07
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:29:16
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-25 18:30:53
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\includes\Loader.php::checkFileAccessForInclusion::65<br>
+C:\xampp\htdocs\beml\includes\Loader.php::includeOnce::191<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::vimport::15<br>
+C:\xampp\htdocs\beml\index.php::include_once::19<br>
+Traced on 2022-05-26 05:03:56
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\tasks\VTEmailTask.inc::retrieveCurrentUserInfoFromFile::222<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTTaskManager.inc::getContents::181<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTWorkflowManager.inc::hasContents::433<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\beml\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\beml\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::triggerEvent::959<br>
+C:\xampp\htdocs\beml\modules\CustomerPortal\apis\CustomerSignUp.php::save::42<br>
+C:\xampp\htdocs\beml\modules\CustomerPortal\api.php::process::67<br>
+C:\xampp\htdocs\beml\modules\CustomerPortal\api.php::process::96<br>
+Traced on 2022-05-26 05:04:37
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\tasks\VTEmailTask.inc::retrieveCurrentUserInfoFromFile::222<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTTaskManager.inc::getContents::181<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTWorkflowManager.inc::hasContents::433<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\beml\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\beml\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::triggerEvent::959<br>
+C:\xampp\htdocs\beml\modules\CustomerPortal\apis\CustomerSignUp.php::save::42<br>
+C:\xampp\htdocs\beml\modules\CustomerPortal\api.php::process::67<br>
+C:\xampp\htdocs\beml\modules\CustomerPortal\api.php::process::96<br>
+Traced on 2022-05-26 10:20:46
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-26 10:24:43
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::retrieveCurrentUserInfoFromFile::818<br>
+C:\xampp\htdocs\beml\modules\Users\models\Privileges.php::getInstanceFromPreferenceFile::188<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\9767dc3102998e6e6f4bc95533c6c9cede9e5462.file.ListViewRecordActions.tpl.php::isPermittedToChangeUsername::33<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bd87d8a::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_template.php::fetch::285<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\1aed77e389a3c9b8044c5dfa20f3a9a1db31b52a.file.ListViewContents.tpl.php::getSubTemplate::106<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bc8e9dd::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::fetch::374<br>
+C:\xampp\htdocs\beml\includes\runtime\Viewer.php::display::188<br>
+C:\xampp\htdocs\beml\modules\Users\views\List.php::view::31<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-26 10:25:47
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-27 17:14:47
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::retrieveCurrentUserInfoFromFile::818<br>
+C:\xampp\htdocs\beml\modules\Users\models\Privileges.php::getInstanceFromPreferenceFile::188<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\9767dc3102998e6e6f4bc95533c6c9cede9e5462.file.ListViewRecordActions.tpl.php::isPermittedToChangeUsername::33<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bd87d8a::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_template.php::fetch::285<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\1aed77e389a3c9b8044c5dfa20f3a9a1db31b52a.file.ListViewContents.tpl.php::getSubTemplate::106<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bc8e9dd::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::fetch::374<br>
+C:\xampp\htdocs\beml\includes\runtime\Viewer.php::display::188<br>
+C:\xampp\htdocs\beml\modules\Users\views\List.php::view::31<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-27 17:16:33
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-27 17:19:42
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::retrieveCurrentUserInfoFromFile::818<br>
+C:\xampp\htdocs\beml\modules\Users\models\Privileges.php::getInstanceFromPreferenceFile::188<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\9767dc3102998e6e6f4bc95533c6c9cede9e5462.file.ListViewRecordActions.tpl.php::isPermittedToChangeUsername::33<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bd87d8a::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_template.php::fetch::285<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\1aed77e389a3c9b8044c5dfa20f3a9a1db31b52a.file.ListViewContents.tpl.php::getSubTemplate::106<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bc8e9dd::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::fetch::374<br>
+C:\xampp\htdocs\beml\includes\runtime\Viewer.php::display::188<br>
+C:\xampp\htdocs\beml\modules\Users\views\List.php::view::31<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 04:12:30
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::retrieveCurrentUserInfoFromFile::818<br>
+C:\xampp\htdocs\beml\modules\Users\models\Privileges.php::getInstanceFromPreferenceFile::188<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\9767dc3102998e6e6f4bc95533c6c9cede9e5462.file.ListViewRecordActions.tpl.php::isPermittedToChangeUsername::33<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bd87d8a::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_template.php::fetch::285<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\1aed77e389a3c9b8044c5dfa20f3a9a1db31b52a.file.ListViewContents.tpl.php::getSubTemplate::106<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bc8e9dd::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::fetch::374<br>
+C:\xampp\htdocs\beml\includes\runtime\Viewer.php::display::188<br>
+C:\xampp\htdocs\beml\modules\Users\views\List.php::view::31<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 04:13:01
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 04:28:10
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 04:34:24
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 04:48:01
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::retrieveCurrentUserInfoFromFile::818<br>
+C:\xampp\htdocs\beml\modules\Users\models\Privileges.php::getInstanceFromPreferenceFile::188<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\9767dc3102998e6e6f4bc95533c6c9cede9e5462.file.ListViewRecordActions.tpl.php::isPermittedToChangeUsername::33<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bd87d8a::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_template.php::fetch::285<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\1aed77e389a3c9b8044c5dfa20f3a9a1db31b52a.file.ListViewContents.tpl.php::getSubTemplate::106<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bc8e9dd::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::fetch::374<br>
+C:\xampp\htdocs\beml\includes\runtime\Viewer.php::display::188<br>
+C:\xampp\htdocs\beml\modules\Users\views\List.php::view::31<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 04:49:27
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 04:52:45
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::126<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 04:54:37
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1126<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::129<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 05:45:07
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1130<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::129<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 05:47:22
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1130<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::129<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 05:48:00
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1130<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::129<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 05:49:21
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\modules\Users\CreateUserPrivilegeFile.php::checkFileAccessForInclusion::114<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::createUserSharingPrivilegesfile::1130<br>
+C:\xampp\htdocs\beml\modules\Users\models\Module.php::save::260<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::save::155<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Users\actions\Save.php::saveRecord::129<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 06:08:07
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::retrieveCurrentUserInfoFromFile::818<br>
+C:\xampp\htdocs\beml\modules\Users\models\Privileges.php::getInstanceFromPreferenceFile::188<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\9767dc3102998e6e6f4bc95533c6c9cede9e5462.file.ListViewRecordActions.tpl.php::isPermittedToChangeUsername::33<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bd87d8a::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_template.php::fetch::285<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\1aed77e389a3c9b8044c5dfa20f3a9a1db31b52a.file.ListViewContents.tpl.php::getSubTemplate::106<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bc8e9dd::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::fetch::374<br>
+C:\xampp\htdocs\beml\includes\runtime\Viewer.php::display::188<br>
+C:\xampp\htdocs\beml\modules\Users\views\List.php::view::31<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-28 06:08:14
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\beml\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\beml\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\beml\modules\Users\models\Record.php::retrieveCurrentUserInfoFromFile::818<br>
+C:\xampp\htdocs\beml\modules\Users\models\Privileges.php::getInstanceFromPreferenceFile::188<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\9767dc3102998e6e6f4bc95533c6c9cede9e5462.file.ListViewRecordActions.tpl.php::isPermittedToChangeUsername::33<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bd87d8a::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_template.php::fetch::285<br>
+C:\xampp\htdocs\beml\test\templates_c\v7\1aed77e389a3c9b8044c5dfa20f3a9a1db31b52a.file.ListViewContents.tpl.php::getSubTemplate::106<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::content_6280a5bc8e9dd::180<br>
+C:\xampp\htdocs\beml\libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php::fetch::374<br>
+C:\xampp\htdocs\beml\includes\runtime\Viewer.php::display::188<br>
+C:\xampp\htdocs\beml\modules\Users\views\List.php::view::31<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-05-31 10:59:16
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\modules\ServiceEngineer\calculateYOE.php::getInstanceById::13<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEntityMethodManager.inc::calculateYOE::35<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::426<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\beml\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\beml\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::triggerEvent::959<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Module.php::save::169<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::saveRecord::54<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-06-02 13:23:20
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::276<br>
+C:\xampp\htdocs\beml\modules\Contacts\handleCustomerPortalUser.php::getCleanInstance::17<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEntityMethodManager.inc::handleCustomerPortalUser::35<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::426<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\beml\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\beml\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::triggerEvent::959<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Module.php::save::169<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\SaveAjax.php::saveRecord::33<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-06-02 13:23:58
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::276<br>
+C:\xampp\htdocs\beml\modules\Contacts\handleCustomerPortalUser.php::getCleanInstance::12<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEntityMethodManager.inc::handleCustomerPortalUser::35<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::426<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\beml\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\beml\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::triggerEvent::959<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Module.php::save::169<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::117<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\SaveAjax.php::saveRecord::33<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-06-13 14:31:10
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\includes\Loader.php::checkFileAccessForInclusion::65<br>
+C:\xampp\htdocs\beml\includes\Loader.php::includeOnce::191<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::vimport::15<br>
+C:\xampp\htdocs\beml\index.php::include_once::19<br>
+Traced on 2022-06-18 12:00:57
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\modules\HelpDesk\HandleTicketAssignment.php::getInstanceById::8<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEntityMethodManager.inc::HandleTicketAssignment::35<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\tasks\VTEntityMethodTask.inc::executeMethod::19<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTWorkflowManager.inc::doTask::426<br>
+C:\xampp\htdocs\beml\modules\com_vtiger_workflow\VTEventHandler.inc::performTasks::114<br>
+C:\xampp\htdocs\beml\include\events\VTEventTrigger.inc::handleEvent::143<br>
+C:\xampp\htdocs\beml\include\events\VTEventsManager.inc::trigger::118<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::triggerEvent::959<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Module.php::save::169<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::saveRecord::259<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::save::118<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\Save.php::saveRecord::54<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::22<br>
+Traced on 2022-07-16 08:16:28
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\include\utils\utils.php::getInstanceById::2516<br>
+C:\xampp\htdocs\beml\modules\Vtiger\handlers\CheckDuplicateHandler.php::getDuplicatesPreventionMessage::244<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\MassSave.php::getDuplicationMessage::40<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::11<br>
+Traced on 2022-07-16 08:17:19
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\include\utils\utils.php::getInstanceById::2516<br>
+C:\xampp\htdocs\beml\modules\Vtiger\handlers\CheckDuplicateHandler.php::getDuplicatesPreventionMessage::244<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\MassSave.php::getDuplicationMessage::40<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::11<br>
+Traced on 2022-07-16 08:20:18
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\include\utils\utils.php::getInstanceById::2516<br>
+C:\xampp\htdocs\beml\modules\Vtiger\handlers\CheckDuplicateHandler.php::getDuplicatesPreventionMessage::244<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\MassSave.php::getDuplicationMessage::40<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::11<br>
+Traced on 2022-07-16 08:21:14
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\include\utils\utils.php::getInstanceById::2516<br>
+C:\xampp\htdocs\beml\modules\Vtiger\handlers\CheckDuplicateHandler.php::getDuplicatesPreventionMessage::244<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\MassSave.php::getDuplicationMessage::40<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::11<br>
+Traced on 2022-07-16 08:22:07
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\include\utils\utils.php::getInstanceById::2516<br>
+C:\xampp\htdocs\beml\modules\Vtiger\handlers\CheckDuplicateHandler.php::getDuplicatesPreventionMessage::244<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\MassSave.php::getDuplicationMessage::40<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::11<br>
+Traced on 2022-07-16 10:08:56
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\include\utils\utils.php::getInstanceById::2516<br>
+C:\xampp\htdocs\beml\modules\Vtiger\handlers\CheckDuplicateHandler.php::getDuplicatesPreventionMessage::244<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\SaveAjax.php::getDuplicationMessage::81<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::11<br>
+Traced on 2022-07-16 10:09:09
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\include\utils\utils.php::getInstanceById::2516<br>
+C:\xampp\htdocs\beml\modules\Vtiger\handlers\CheckDuplicateHandler.php::getDuplicatesPreventionMessage::244<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\SaveAjax.php::getDuplicationMessage::81<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::216<br>
+C:\xampp\htdocs\beml\index.php::process::11<br>
+Traced on 2022-07-19 15:31:09
+FileAccessForInclusion - 
+C:\xampp\htdocs\beml\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\beml\data\CRMEntity.php::checkFileAccessForInclusion::56<br>
+C:\xampp\htdocs\beml\modules\Vtiger\models\Record.php::getInstance::300<br>
+C:\xampp\htdocs\beml\include\utils\utils.php::getInstanceById::2516<br>
+C:\xampp\htdocs\beml\modules\Vtiger\handlers\CheckDuplicateHandler.php::getDuplicatesPreventionMessage::244<br>
+C:\xampp\htdocs\beml\modules\Vtiger\actions\MassSave.php::getDuplicationMessage::40<br>
+C:\xampp\htdocs\beml\includes\main\WebUI.php::process::219<br>
+C:\xampp\htdocs\beml\index.php::process::11<br>
